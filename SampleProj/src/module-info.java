@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ABC
- *
- */
-module SampleProj {
-}
